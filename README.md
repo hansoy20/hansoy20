@@ -28,7 +28,7 @@ JS/TS, Python, React, Django, PostgreSQL, Firebase, WebSockets, REST APIs. I've 
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=hansoy20&show_icons=true&theme=github_dark&hide_border=true&title_color=2F81F7&icon_color=2F81F7&text_color=c9d1d9&bg_color=0d1117)
+![Stats](https://github-readme-stats-mu-red.vercel.app/api?username=hansoy20&show_icons=true&theme=github_dark&hide_border=true&title_color=2F81F7&icon_color=2F81F7&text_color=c9d1d9&bg_color=0d1117)
 
 </div>
 
